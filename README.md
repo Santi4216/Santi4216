@@ -1,6 +1,6 @@
 <div align="left">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=false&vCenter=true&width=600&lines=Building+reliable+IoT+systems%2C+one+sensor+at+a+time.;ESP32+firmware.+Real-time+dashboards.+Clean+documentation.;Open+to+freelance+and+collaboration+opportunities.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=false&vCenter=true&width=600&lines=Building+reliable+IoT+systems%2C+one+sensor+at+a+time.;ESP32+firmware.+Real-time+dashboards.+Clean+documentation.;Open+to+freelance+and+collaboration+opportunities.)](https://git.io/typing-svg)
 
 # Santiago García
 
@@ -38,12 +38,6 @@ Mechatronics Engineering student developing IoT and embedded systems solutions. 
 | [**WeatherStation**](https://github.com/Santi4216/WeatherStation) | Real-time monitoring with Kalman filtering and a PyQt5 dashboard | ⭐ 2 |
 | [**actuadores-mezcladordepintura-iot**](https://github.com/Santi4216/actuadores-mezcladordepintura-iot) | WebSocket-driven mixer control with a full state machine | ⭐ 1 |
 | [**Smart-Access-Control-System**](https://github.com/Santi4216/Smart-Access-Control-System) | Access control system with WhatsApp notifications | ⭐ 1 |
-
-## GitHub Activity
-
-![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santi4216&show_icons=true&theme=github_dark&hide_border=true&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Santi4216&layout=compact&theme=github_dark&hide_border=true&hide_title=true)
 
 ---
 
