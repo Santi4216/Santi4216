@@ -1,6 +1,6 @@
 <div align="left">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=false&vCenter=true&width=600&lines=Building+reliable+IoT+systems%2C+one+sensor+at+a+time.;ESP32+firmware.+Real-time+dashboards.+Clean+documentation.;Open+to+freelance+and+collaboration+opportunities.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=false&vCenter=true&width=720&lines=Building+reliable+IoT+systems%2C+one+sensor+at+a+time.;ESP32+firmware.+Real-time+dashboards.+Clean+documentation.;Open+to+freelance+and+collaboration+opportunities.)](https://git.io/typing-svg)
 
 # Santiago García
 
@@ -15,7 +15,7 @@
 
 ## Summary
 
-Mechatronics Engineering student developing IoT and embedded systems solutions. Experience integrating ESP32 and Raspberry Pi hardware with sensors, MQTT/REST communication, and desktop dashboards. Focused on delivering reliable, well-documented systems.
+Mechatronics Engineering student with a strong interest in IoT, home automation, and robotics, developing IoT and embedded systems solutions. Experience integrating ESP32 and Raspberry Pi hardware with sensors, MQTT/REST communication, and desktop dashboards. Focused on delivering reliable, well-documented systems.
 
 **Languages:** English (Fluent) · Spanish (Native) · German (Basic)
 
